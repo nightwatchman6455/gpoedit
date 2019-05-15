@@ -3,7 +3,7 @@ A repository of files containing METRONOME as well as the template files needed 
 METRONOME
 Written by Nightwatchman6455
 
-Used to manipulate GPO Active Directory settings. See
+Used to manipulate GPO Active Directory settings. See http://nightwatchman.me/post/184884366363/gpo-abuse-and-you for more info.
 
 USAGE:
 
